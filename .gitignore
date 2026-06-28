@@ -39,3 +39,7 @@ mobile/build/
 **/android/.gradle/
 **/ios/Pods/
 *.iml
+
+# ---- Claude ----
+claude/
+CLAUDE.md
